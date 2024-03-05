@@ -2,6 +2,10 @@
 이 프로젝트는 우아한 테크코스 박재성님의 허가를 받아 https://github.com/woowacourse/jwp-was 
 를 참고하여 작성되었습니다.
 
+### 구조
+<img width="1046" alt="스크린샷 2024-01-30 오후 10 32 29" src="https://github.com/kelly1422/be-was/assets/80809782/92ad1657-61d8-4020-9002-24fff364d746">
+
+
 
 ### 목차
 - [step1 - index.html 응답](#step1---index.html-응답)

@@ -4,12 +4,12 @@
 
 
 ### 목차
-- [step1 - index.html 응답](#step1---indexhtml---)
-- [step2 - GET으로 회원가입](#step2---get-------)
-- [step3 - 다양한 컨텐츠 타입 지원](#step3----------------)
-- [step4 - POST로 회원 가입](#step4---post-------)
-- [step5 - 쿠키를 이용한 로그인](#step5--------------)
-- [step6 - 동적인 HTML](#step6-------html)
+- [step1 - index.html 응답](#step1---index.html-응답)
+- [step2 - GET으로 회원가입](#step2---GET으로-회원가입)
+- [step3 - 다양한 컨텐츠 타입 지원](#step3---다양한-컨텐츠-타입-지원)
+- [step4 - POST로 회원 가입](#step4---POST로-회원가입)
+- [step5 - 쿠키를 이용한 로그인](#step5---쿠키를-이용한-로그인)
+- [step6 - 동적인 HTML](#step6---동적인-HTML)
 
 <br/>
 
@@ -165,7 +165,7 @@ MIME tpye을 공부해보니 html, css, js 파일 외에 이미지의 경우는 
 <br/>
 <br/>
 
-# step4 - POST로 회원 가입
+# step4 - POST로 회원가입
 ## 구현 내용
 ### java.nio 에서 java.io 로 변환
 * Files.readAllBytes 대신 io.FileInputStream 의 read를 이용하여 파일을 바이트 배열로 변환
